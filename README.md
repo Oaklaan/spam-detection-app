@@ -34,15 +34,17 @@ Spam / Not Spam
 
 ## 🌍 Deployment
 
-The application is **deployed on Railway** and can be accessed online.
+🚀 **Live Demo:**
+https://spam-detection-app-production.up.railway.app/
 
-🔗 **Live Demo:** `spam-detection-app-production.up.railway.app`
+💻 **GitHub Repository:**
+https://github.com/Oaklaan/spam-detection-app
 
 ## ▶️ Run Locally
 
 ```bash
-git clone <your-repository-url>
-cd spam-detection
+git clone https://github.com/Oaklaan/spam-detection-app.git
+cd spam-detection-app
 
 pip install -r requirements.txt
 
@@ -65,4 +67,4 @@ To build a practical **Machine Learning + Flask web application** capable of aut
 
 **Krushna Koshatwar**
 
-⭐ Feel free to explore and contribute!
+⭐ Feel free to explore the project!
