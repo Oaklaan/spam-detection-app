@@ -36,7 +36,7 @@ Spam / Not Spam
 
 The application is **deployed on Railway** and can be accessed online.
 
-🔗 **Live Demo:** `<spam-detection-app-production.up.railway.app>`
+🔗 **Live Demo:** `spam-detection-app-production.up.railway.app`
 
 ## ▶️ Run Locally
 
